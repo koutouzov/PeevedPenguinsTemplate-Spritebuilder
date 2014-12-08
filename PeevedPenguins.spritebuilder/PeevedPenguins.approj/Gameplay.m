@@ -8,8 +8,6 @@
 
 #import "Gameplay.h"
 
-@implementation Gameplay
-
 @implementation Gameplay {
     CCPhysicsNode *_physicsNode;
     CCNode *_catapultArm;
