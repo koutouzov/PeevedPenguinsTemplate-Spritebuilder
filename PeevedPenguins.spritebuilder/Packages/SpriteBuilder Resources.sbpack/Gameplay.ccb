@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>10</integer>
+	<integer>12</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -54,7 +54,7 @@
 						<key>children</key>
 						<array/>
 						<key>customClass</key>
-						<string></string>
+						<string>retry</string>
 						<key>displayName</key>
 						<string>background</string>
 						<key>memberVarAssignmentName</key>
@@ -153,6 +153,8 @@
 								<array/>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -516,8 +518,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -785,7 +785,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>8</integer>
+						<integer>11</integer>
 						<key>baseClass</key>
 						<string>CCButton</string>
 						<key>children</key>
@@ -815,8 +815,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>59.000015258789062</real>
-									<real>293</real>
+									<real>68</real>
+									<real>287</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -840,8 +840,8 @@
 								<string>ScaleLock</string>
 								<key>value</key>
 								<array>
-									<real>1.375967264175415</real>
-									<real>1.1194344758987427</real>
+									<real>1.7287180423736572</real>
+									<real>1.237775444984436</real>
 									<false/>
 									<integer>0</integer>
 								</array>
@@ -853,7 +853,7 @@
 								<string>Block</string>
 								<key>value</key>
 								<array>
-									<string>retry</string>
+									<string></string>
 									<integer>1</integer>
 								</array>
 							</dict>
@@ -898,7 +898,7 @@
 								<string>String</string>
 								<key>value</key>
 								<array>
-									<string>Retry !</string>
+									<string>Retry</string>
 									<false/>
 								</array>
 							</dict>
